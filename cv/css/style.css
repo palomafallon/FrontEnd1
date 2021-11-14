@@ -1,0 +1,28 @@
+body{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+header{
+    background-image: url(../img/fondo\ hoja.jpeg);
+    text-align: center;
+}
+h1, h2{
+    background-color: #C4C4C4;
+    letter-spacing: 0.3em;
+    color: #005677;
+
+}
+h1{
+    font-size: 24px;
+}
+h2{
+    font-size: 18px;
+}
+.texto-negrita{
+    font-weight: bold;
+}
+footer{
+    background-color: 
+    #005677;
+    color:white;
+    text-align: center;
+}
