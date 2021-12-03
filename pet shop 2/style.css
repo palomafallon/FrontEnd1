@@ -1,0 +1,41 @@
+.banner_principal{
+    background-image:url(./img/bowl-and-pet-daities-on-green-background\ 1.png);
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner1{
+    background-color: #222222;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+
+}
+.banner2{
+    background-color: #F0A83E;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    display: flex;
+    gap: 10px;
+}
+#placer{
+    text-align: center;
+}
+.productos{
+    color: #3C2313;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    background-color: #3C2313;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    
+}

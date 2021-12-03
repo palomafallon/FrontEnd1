@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.banner1{
+    background-color: #1CD1B0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    position:absolute
+    z-index: 10;
+    width: 100%;   
+}
+.banner1 div{
+    padding: 10px;
+}
+.banner_principal{
+    color: #000000;
+    font-weight: bold;
+    background-color: #00669F;
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    position: sticky; 
+    top: 0px;  
+    z-index: 10;
+    box-shadow: 0px 10px 7px 0px #00000040;   
+}
+.banner_principal p{
+    padding: 25px;
+}
